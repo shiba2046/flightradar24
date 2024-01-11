@@ -1,0 +1,115 @@
+id,label,value,url,icao,name
+2010,Boeing 757 (B757),Boeing 757 (B757),boeing-757-b757,B757,Boeing 757
+241,Boeing 757-200 (B752),Boeing 757-200 (B752),boeing-757-200-b752,B752,Boeing 757-200
+2098,Boeing 757-200PF (B752),Boeing 757-200PF (B752),boeing-757-200pf-b752,B752,Boeing 757-200PF
+2099,Boeing 757-200SF (B752),Boeing 757-200SF (B752),boeing-757-200sf-b752,B752,Boeing 757-200SF
+242,Boeing 757-300 (B753),Boeing 757-300 (B753),boeing-757-300-b753,B753,Boeing 757-300
+2012,Boeing 777 (B777),Boeing 777 (B777),boeing-777-b777,B777,Boeing 777
+2021,Boeing 777 Freighter (B77F),Boeing 777 Freighter (B77F),boeing-777-freighter-b77f,B77F,Boeing 777 Freighter
+246,Boeing 777-200 (B772),Boeing 777-200 (B772),boeing-777-200-b772,B772,Boeing 777-200
+2024,Boeing 777-200ER (B77E),Boeing 777-200ER (B77E),boeing-777-200er-b77e,B77E,Boeing 777-200ER
+2022,Boeing 777-200LR (B77L),Boeing 777-200LR (B77L),boeing-777-200lr-b77l,B77L,Boeing 777-200LR
+247,Boeing 777-300 (B773),Boeing 777-300 (B773),boeing-777-300-b773,B773,Boeing 777-300
+2023,Boeing 777-300ER (B77W),Boeing 777-300ER (B77W),boeing-777-300er-b77w,B77W,Boeing 777-300ER
+27,Airbus A320 (A320),Airbus A320 (A320),airbus-a320-a320,A320,Airbus A320
+2058,Airbus A320-100 (A320),Airbus A320-100 (A320),airbus-a320-100-a320,A320,Airbus A320-100
+2059,Airbus A320-200 (A320),Airbus A320-200 (A320),airbus-a320-200-a320,A320,Airbus A320-200
+2127,Airbus A320neo (A20N),Airbus A320neo (A20N),https://en.wikipedia.org/wiki/List_of_ICAO_aircraft_type_designators,A20N,Airbus A320neo
+147,ATR 42-320 (AT43),ATR 42-320 (AT43),atr-42-320-at43,AT43,ATR 42-320
+384,Cessna 320 Skyknight (C320),Cessna 320 Skyknight (C320),cessna-320-skyknight-c320,C320,Cessna 320 Skyknight
+890,HFB HFB-320 Hansa (HF20),HFB HFB-320 Hansa (HF20),hfb-hfb-320-hansa-hf20,HF20,HFB HFB-320 Hansa
+1289,Nord 3202 (N320),Nord 3202 (N320),nord-3202-n320,N320,Nord 3202
+1605,Piel CP-1320 Saphir (SAPH),Piel CP-1320 Saphir (SAPH),piel-cp-1320-saphir-saph,SAPH,Piel CP-1320 Saphir
+652,Embraer ERJ-135 (E135),Embraer ERJ-135 (E135),embraer-erj-135-e135,E135,Embraer ERJ-135
+2030,Embraer ERJ-140 (E140),Embraer ERJ-140 (E140),embraer-erj-140-e140,E140,Embraer ERJ-140
+653,Embraer ERJ-145 (E145),Embraer ERJ-145 (E145),embraer-erj-145-e145,E145,Embraer ERJ-145
+665,Embraer ERJ-145XR (E45X),Embraer ERJ-145XR (E45X),embraer-erj-145xr-e45x,E45X,Embraer ERJ-145XR
+654,Embraer ERJ-170 (E170),Embraer ERJ-170 (E170),embraer-erj-170-e170,E170,Embraer ERJ-170
+2015,Embraer ERJ-175 (E175),Embraer ERJ-175 (E175),embraer-erj-175-e175,E175,Embraer ERJ-175
+655,Embraer ERJ-190 (E190),Embraer ERJ-190 (E190),embraer-erj-190-e190,E190,Embraer ERJ-190
+2016,Embraer ERJ-195 (E195),Embraer ERJ-195 (E195),embraer-erj-195-e195,E195,Embraer ERJ-195
+2067,Sukhoi Superjet 100 (SU95),Sukhoi Superjet 100 (SU95),sukhoi-superjet-100-su95,SU95,Sukhoi Superjet 100
+1903,Viper ViperJet (VIPJ),Viper ViperJet (VIPJ),viper-viperjet-vipj,VIPJ,Viper ViperJet
+2155,Airbus A220-100 (BCS1),Airbus A220-100 (BCS1),https://www.airbus.com/aircraft/passenger-aircraft/a220-family/a220-100.html,BCS1,Airbus A220-100
+2142,Airbus A220-300 (BCS3),Airbus A220-300 (BCS3),https://en.wikipedia.org/wiki/List_of_ICAO_aircraft_type_designators,BCS3,Airbus A220-300
+2034,Airbus A300 (A300),Airbus A300 (A300),airbus-a300-a300,A300,Airbus A300
+22,Airbus A300-600 (A306),Airbus A300-600 (A306),airbus-a300-600-a306,A306,Airbus A300-600
+23,Airbus A300B2 (A30B),Airbus A300B2 (A30B),airbus-a300b2-a30b,A30B,Airbus A300B2
+2062,Airbus A300B4 (A30B),Airbus A300B4 (A30B),airbus-a300b4-a30b,A30B,Airbus A300B4
+40,Airbus A300ST Beluga (A3ST),Airbus A300ST Beluga (A3ST),airbus-a300st-beluga-a3st,A3ST,Airbus A300ST Beluga
+24,Airbus A310 (A310),Airbus A310 (A310),airbus-a310-a310,A310,Airbus A310
+2019,Airbus A310-200 (A312),Airbus A310-200 (A312),airbus-a310-200-a312,A312,Airbus A310-200
+2020,Airbus A310-300 (A313),Airbus A310-300 (A313),airbus-a310-300-a313,A313,Airbus A310-300
+2081,Boeing 377 Stratocruiser (B377),Boeing 377 Stratocruiser (B377),boeing-377-stratocruiser-b377,B377,Boeing 377 Stratocruiser
+2035,Boeing 707 (B707),Boeing 707 (B707),boeing-707-b707,B707,Boeing 707
+218,Boeing 707-100 (B701),Boeing 707-100 (B701),boeing-707-100-b701,B701,Boeing 707-100
+2082,Boeing 707-200 (B702),Boeing 707-200 (B702),boeing-707-200-b702,B702,Boeing 707-200
+219,Boeing 707-300 (B703),Boeing 707-300 (B703),boeing-707-300-b703,B703,Boeing 707-300
+2083,Boeing 707-400 (B704),Boeing 707-400 (B704),boeing-707-400-b704,B704,Boeing 707-400
+2036,Boeing 717 (B717),Boeing 717 (B717),boeing-717-b717,B717,Boeing 717
+220,Boeing 717-200 (B712),Boeing 717-200 (B712),boeing-717-200-b712,B712,Boeing 717-200
+221,Boeing 720 (B720),Boeing 720 (B720),boeing-720-b720,B720,Boeing 720
+2013,Boeing 727 (B727),Boeing 727 (B727),boeing-727-b727,B727,Boeing 727
+2145,Embraer 175 (E75S),Embraer 175 (E75S),https://en.wikipedia.org/wiki/Embraer_175,E75S,Embraer 175
+2146,Embraer 175 (E75L),Embraer 175 (E75L),https://en.wikipedia.org/wiki/Embraer_175,E75L,Embraer 175
+1895,Embraer CBA-123 Vector (VECT),Embraer CBA-123 Vector (VECT),embraer-cba-123-vector-vect,VECT,Embraer CBA-123 Vector
+2139,Embraer E190-E2 (E290),Embraer E190-E2 (E290),https://en.wikipedia.org/wiki/Embraer_E-Jet_E2_family,E290,Embraer E190-E2
+649,Embraer EMB-110 Bandeirante (E110),Embraer EMB-110 Bandeirante (E110),embraer-emb-110-bandeirante-e110,E110,Embraer EMB-110 Bandeirante
+650,Embraer EMB-120 Brasilia (E120),Embraer EMB-120 Brasilia (E120),embraer-emb-120-brasilia-e120,E120,Embraer EMB-120 Brasilia
+651,Embraer EMB-121 Xingu (E121),Embraer EMB-121 Xingu (E121),embraer-emb-121-xingu-e121,E121,Embraer EMB-121 Xingu
+947,Embraer EMB-200 Ipanema (IPAN),Embraer EMB-200 Ipanema (IPAN),embraer-emb-200-ipanema-ipan,IPAN,Embraer EMB-200 Ipanema
+661,Embraer EMB-314 Super Tucano (E314),Embraer EMB-314 Super Tucano (E314),embraer-emb-314-super-tucano-e314,E314,Embraer EMB-314 Super Tucano
+1150,Embraer EMB-326 Xavante (M326),Embraer EMB-326 Xavante (M326),embraer-emb-326-xavante-m326,M326,Embraer EMB-326 Xavante
+2061,BAE Systems Avro RJ (RJX),BAE Systems Avro RJ (RJX),bae-systems-avro-rj,RJX,BAE Systems Avro RJ
+2006,BAE Systems Avro RJ100 (RJ1H),BAE Systems Avro RJ100 (RJ1H),bae-systems-avro-rj100-rj1h,RJ1H,BAE Systems Avro RJ100
+2007,BAE Systems Avro RJ70 (RJ70),BAE Systems Avro RJ70 (RJ70),bae-systems-avro-rj70-rj70,RJ70,BAE Systems Avro RJ70
+2008,BAE Systems Avro RJ85 (RJ85),BAE Systems Avro RJ85 (RJ85),bae-systems-avro-rj85-rj85,RJ85,BAE Systems Avro RJ85
+866,British Aerospace BAe-125-1000 (H25C),British Aerospace BAe-125-1000 (H25C),british-aerospace-bae-125-1000-h25c,H25C,British Aerospace BAe-125-1000
+1518,British Aerospace BAe-146 (BA46),British Aerospace BAe-146 (BA46),british-aerospace-bae-146-ba46,BA46,British Aerospace BAe-146
+209,British Aerospace BAe-146-100 (B461),British Aerospace BAe-146-100 (B461),british-aerospace-bae-146-100-b461,B461,British Aerospace BAe-146-100
+210,British Aerospace BAe-146-200 (B462),British Aerospace BAe-146-200 (B462),british-aerospace-bae-146-200-b462,B462,British Aerospace BAe-146-200
+211,British Aerospace BAe-146-300 (B463),British Aerospace BAe-146-300 (B463),british-aerospace-bae-146-300-b463,B463,British Aerospace BAe-146-300
+2136,COMAC ARJ21-700 (AJ27),COMAC ARJ21-700 (AJ27),https://www.caa.co.uk/uploadedFiles/CAA/Content/Standard_Content/Data_and_analysis/AvStats_project/Files/AircraftTypesByIcaoCode,AJ27,COMAC ARJ21-700
+2200,Comac C919 (C919),Comac C919 (C919),http://english.comac.cc/products/ca/,C919,Comac C919
+2009,Boeing 737 (B73X),Boeing 737 (B73X),boeing-737-b73x,B73X,Boeing 737
+2125,Boeing 737 MAX 10 (B3JM),Boeing 737 MAX 10 (B3JM),https://en.wikipedia.org/wiki/List_of_ICAO_aircraft_type_designators,B3JM,Boeing 737 MAX 10
+2186,Boeing 737 MAX 200 (B38M),Boeing 737 MAX 200 (B38M),https://en.wikipedia.org/wiki/Boeing_737_MAX,B38M,Boeing 737 MAX 200
+2122,Boeing 737 MAX 7 (B37M),Boeing 737 MAX 7 (B37M),https://en.wikipedia.org/wiki/List_of_ICAO_aircraft_type_designators,B37M,Boeing 737 MAX 7
+2123,Boeing 737 MAX 8 (B38M),Boeing 737 MAX 8 (B38M),https://en.wikipedia.org/wiki/List_of_ICAO_aircraft_type_designators,B38M,Boeing 737 MAX 8
+2124,Boeing 737 MAX 9 (B39M),Boeing 737 MAX 9 (B39M),https://en.wikipedia.org/wiki/List_of_ICAO_aircraft_type_designators,B39M,Boeing 737 MAX 9
+224,Boeing 737-100 (B731),Boeing 737-100 (B731),boeing-737-100-b731,B731,Boeing 737-100
+225,Boeing 737-200 (B732),Boeing 737-200 (B732),boeing-737-200-b732,B732,Boeing 737-200
+226,Boeing 737-300 (B733),Boeing 737-300 (B733),boeing-737-300-b733,B733,Boeing 737-300
+227,Boeing 737-400 (B734),Boeing 737-400 (B734),boeing-737-400-b734,B734,Boeing 737-400
+230,Boeing 737-700 (B737),Boeing 737-700 (B737),boeing-737-700-b737,B737,Boeing 737-700
+228,Boeing 737-500 (B735),Boeing 737-500 (B735),boeing-737-500-b735,B735,Boeing 737-500
+229,Boeing 737-600 (B736),Boeing 737-600 (B736),boeing-737-600-b736,B736,Boeing 737-600
+231,Boeing 737-800 (B738),Boeing 737-800 (B738),boeing-737-800-b738,B738,Boeing 737-800
+232,Boeing 737-900 (B739),Boeing 737-900 (B739),boeing-737-900-b739,B739,Boeing 737-900
+2069,Boeing 737-900ER (B739),Boeing 737-900ER (B739),boeing-737-900er-b739,B739,Boeing 737-900ER
+781,Aerospatiale SA321 Super Frelon (FREL),Aerospatiale SA321 Super Frelon (FREL),aerospatiale-sa321-super-frelon-frel,FREL,Aerospatiale SA321 Super Frelon
+28,Airbus A321 (A321),Airbus A321 (A321),airbus-a321-a321,A321,Airbus A321
+2075,Airbus A321-100 (A321),Airbus A321-100 (A321),airbus-a321-100-a321,A321,Airbus A321-100
+2076,Airbus A321-200 (A321),Airbus A321-200 (A321),airbus-a321-200-a321,A321,Airbus A321-200
+2181,Airbus A321LR (A21N),Airbus A321LR (A21N),https://en.wikipedia.org/wiki/Airbus_A321,A21N,Airbus A321LR
+2128,Airbus A321neo (A21N),Airbus A321neo (A21N),https://en.wikipedia.org/wiki/Airbus_A321neo,A21N,Airbus A321neo
+2182,Airbus A321XLR (A21N),Airbus A321XLR (A21N),https://en.wikipedia.org/wiki/Airbus_A321,A21N,Airbus A321XLR
+38,Airbus A380 (A380),Airbus A380 (A380),airbus-a380-a380,A380,Airbus A380
+39,Airbus A380-800 (A388),Airbus A380-800 (A388),airbus-a380-800-a388,A388,Airbus A380-800
+894,Falconar HM-380 Ladybug (HM38),Falconar HM-380 Ladybug (HM38),falconar-hm-380-ladybug-hm38,HM38,Falconar HM-380 Ladybug
+1071,Lederlin 380 Ladybug (L380),Lederlin 380 Ladybug (L380),lederlin-380-ladybug-l380,L380,Lederlin 380 Ladybug
+2032,ATR 72 (AT7X),ATR 72 (AT7X),atr-72-at7x,AT7X,ATR 72
+153,ATR 72-200 (AT72),ATR 72-200 (AT72),atr-72-200-at72,AT72,ATR 72-200
+154,ATR 72-500 (AT75),ATR 72-500 (AT75),atr-72-500-at75,AT75,ATR 72-500
+2105,ATR 72-600 (AT76),ATR 72-600 (AT76),atr-72-600-at76,AT76,ATR 72-600
+29,Airbus A330 (A330),Airbus A330 (A330),airbus-a330-a330,A330,Airbus A330
+1452,Aerospatiale SA330 Puma (PUMA),Aerospatiale SA330 Puma (PUMA),aerospatiale-sa330-puma-puma,PUMA,Aerospatiale SA330 Puma
+30,Airbus A330-200 (A332),Airbus A330-200 (A332),airbus-a330-200-a332,A332,Airbus A330-200
+31,Airbus A330-300 (A333),Airbus A330-300 (A333),airbus-a330-300-a333,A333,Airbus A330-300
+2129,Airbus A330-800neo (A338),Airbus A330-800neo (A338),https://en.wikipedia.org/wiki/Airbus_A330,A338,Airbus A330-800neo
+2130,Airbus A330-900neo (A339),Airbus A330-900neo (A339),https://en.wikipedia.org/wiki/List_of_ICAO_aircraft_type_designators,A339,Airbus A330-900neo
+2188,Airbus Beluga XL (A337),Airbus Beluga XL (A337),https://en.wikipedia.org/wiki/Airbus_BelugaXL,A337,Airbus Beluga XL
+2086,Boeing 787 Dreamliner (B787),Boeing 787 Dreamliner (B787),boeing-787-dreamliner-b787,B787,Boeing 787 Dreamliner
+2138,Boeing 787-10 (B78X),Boeing 787-10 (B78X),https://en.wikipedia.org/wiki/List_of_ICAO_aircraft_type_designators,B78X,Boeing 787-10
+2087,Boeing 787-8 (B788),Boeing 787-8 (B788),boeing-787-8-b788,B788,Boeing 787-8
+2088,Boeing 787-9 (B789),Boeing 787-9 (B789),boeing-787-9-b789,B789,Boeing 787-9

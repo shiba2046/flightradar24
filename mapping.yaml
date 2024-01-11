@@ -1,0 +1,12 @@
+flight_class:
+  1: economy
+  2: business
+
+seat_type:
+  1: window
+  2: middle
+  3: aisle
+
+fight_reason:
+  1: leisure
+  2: business

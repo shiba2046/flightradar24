@@ -1,0 +1,938 @@
+[
+  {
+    "id":147,
+    "label":"ATR 42-320 (AT43)",
+    "value":"ATR 42-320 (AT43)",
+    "url":"atr-42-320-at43",
+    "icao":"AT43",
+    "name":"ATR 42-320"
+  },
+  {
+    "id":2032,
+    "label":"ATR 72 (AT7X)",
+    "value":"ATR 72 (AT7X)",
+    "url":"atr-72-at7x",
+    "icao":"AT7X",
+    "name":"ATR 72"
+  },
+  {
+    "id":153,
+    "label":"ATR 72-200 (AT72)",
+    "value":"ATR 72-200 (AT72)",
+    "url":"atr-72-200-at72",
+    "icao":"AT72",
+    "name":"ATR 72-200"
+  },
+  {
+    "id":154,
+    "label":"ATR 72-500 (AT75)",
+    "value":"ATR 72-500 (AT75)",
+    "url":"atr-72-500-at75",
+    "icao":"AT75",
+    "name":"ATR 72-500"
+  },
+  {
+    "id":2105,
+    "label":"ATR 72-600 (AT76)",
+    "value":"ATR 72-600 (AT76)",
+    "url":"atr-72-600-at76",
+    "icao":"AT76",
+    "name":"ATR 72-600"
+  },
+  {
+    "id":96,
+    "label":"Aerospatiale SA319 Alouette 3 (ALO3)",
+    "value":"Aerospatiale SA319 Alouette 3 (ALO3)",
+    "url":"aerospatiale-sa319-alouette-3-alo3",
+    "icao":"ALO3",
+    "name":"Aerospatiale SA319 Alouette 3"
+  },
+  {
+    "id":781,
+    "label":"Aerospatiale SA321 Super Frelon (FREL)",
+    "value":"Aerospatiale SA321 Super Frelon (FREL)",
+    "url":"aerospatiale-sa321-super-frelon-frel",
+    "icao":"FREL",
+    "name":"Aerospatiale SA321 Super Frelon"
+  },
+  {
+    "id":1452,
+    "label":"Aerospatiale SA330 Puma (PUMA)",
+    "value":"Aerospatiale SA330 Puma (PUMA)",
+    "url":"aerospatiale-sa330-puma-puma",
+    "icao":"PUMA",
+    "name":"Aerospatiale SA330 Puma"
+  },
+  {
+    "id":2155,
+    "label":"Airbus A220-100 (BCS1)",
+    "value":"Airbus A220-100 (BCS1)",
+    "url":"https:\/\/www.airbus.com\/aircraft\/passenger-aircraft\/a220-family\/a220-100.html",
+    "icao":"BCS1",
+    "name":"Airbus A220-100"
+  },
+  {
+    "id":2142,
+    "label":"Airbus A220-300 (BCS3)",
+    "value":"Airbus A220-300 (BCS3)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/List_of_ICAO_aircraft_type_designators",
+    "icao":"BCS3",
+    "name":"Airbus A220-300"
+  },
+  {
+    "id":2034,
+    "label":"Airbus A300 (A300)",
+    "value":"Airbus A300 (A300)",
+    "url":"airbus-a300-a300",
+    "icao":"A300",
+    "name":"Airbus A300"
+  },
+  {
+    "id":22,
+    "label":"Airbus A300-600 (A306)",
+    "value":"Airbus A300-600 (A306)",
+    "url":"airbus-a300-600-a306",
+    "icao":"A306",
+    "name":"Airbus A300-600"
+  },
+  {
+    "id":23,
+    "label":"Airbus A300B2 (A30B)",
+    "value":"Airbus A300B2 (A30B)",
+    "url":"airbus-a300b2-a30b",
+    "icao":"A30B",
+    "name":"Airbus A300B2"
+  },
+  {
+    "id":2062,
+    "label":"Airbus A300B4 (A30B)",
+    "value":"Airbus A300B4 (A30B)",
+    "url":"airbus-a300b4-a30b",
+    "icao":"A30B",
+    "name":"Airbus A300B4"
+  },
+  {
+    "id":40,
+    "label":"Airbus A300ST Beluga (A3ST)",
+    "value":"Airbus A300ST Beluga (A3ST)",
+    "url":"airbus-a300st-beluga-a3st",
+    "icao":"A3ST",
+    "name":"Airbus A300ST Beluga"
+  },
+  {
+    "id":24,
+    "label":"Airbus A310 (A310)",
+    "value":"Airbus A310 (A310)",
+    "url":"airbus-a310-a310",
+    "icao":"A310",
+    "name":"Airbus A310"
+  },
+  {
+    "id":2019,
+    "label":"Airbus A310-200 (A312)",
+    "value":"Airbus A310-200 (A312)",
+    "url":"airbus-a310-200-a312",
+    "icao":"A312",
+    "name":"Airbus A310-200"
+  },
+  {
+    "id":2020,
+    "label":"Airbus A310-300 (A313)",
+    "value":"Airbus A310-300 (A313)",
+    "url":"airbus-a310-300-a313",
+    "icao":"A313",
+    "name":"Airbus A310-300"
+  },
+  {
+    "id":2073,
+    "label":"Airbus A319-100 (A319)",
+    "value":"Airbus A319-100 (A319)",
+    "url":"airbus-a319-100-a319",
+    "icao":"A319",
+    "name":"Airbus A319-100"
+  },
+  {
+    "id":2126,
+    "label":"Airbus A319neo (A19N)",
+    "value":"Airbus A319neo (A19N)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Airbus_A319neo",
+    "icao":"A19N",
+    "name":"Airbus A319neo"
+  },
+  {
+    "id":27,
+    "label":"Airbus A320 (A320)",
+    "value":"Airbus A320 (A320)",
+    "url":"airbus-a320-a320",
+    "icao":"A320",
+    "name":"Airbus A320"
+  },
+  {
+    "id":2058,
+    "label":"Airbus A320-100 (A320)",
+    "value":"Airbus A320-100 (A320)",
+    "url":"airbus-a320-100-a320",
+    "icao":"A320",
+    "name":"Airbus A320-100"
+  },
+  {
+    "id":2059,
+    "label":"Airbus A320-200 (A320)",
+    "value":"Airbus A320-200 (A320)",
+    "url":"airbus-a320-200-a320",
+    "icao":"A322",
+    "name":"Airbus A320-200"
+  },
+  {
+    "id":2127,
+    "label":"Airbus A320neo (A20N)",
+    "value":"Airbus A320neo (A20N)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/List_of_ICAO_aircraft_type_designators",
+    "icao":"A20N",
+    "name":"Airbus A320neo"
+  },
+  {
+    "id":28,
+    "label":"Airbus A321 (A321)",
+    "value":"Airbus A321 (A321)",
+    "url":"airbus-a321-a321",
+    "icao":"A321",
+    "name":"Airbus A321"
+  },
+  {
+    "id":2075,
+    "label":"Airbus A321-100 (A321)",
+    "value":"Airbus A321-100 (A321)",
+    "url":"airbus-a321-100-a321",
+    "icao":"A321",
+    "name":"Airbus A321-100"
+  },
+  {
+    "id":2076,
+    "label":"Airbus A321-200 (A321)",
+    "value":"Airbus A321-200 (A321)",
+    "url":"airbus-a321-200-a321",
+    "icao":"A321-200",
+    "name":"Airbus A321-200"
+  },
+  {
+    "id":2181,
+    "label":"Airbus A321LR (A21N)",
+    "value":"Airbus A321LR (A21N)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Airbus_A321",
+    "icao":"A21N",
+    "name":"Airbus A321LR"
+  },
+  {
+    "id":2182,
+    "label":"Airbus A321XLR (A21N)",
+    "value":"Airbus A321XLR (A21N)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Airbus_A321",
+    "icao":"A21N",
+    "name":"Airbus A321XLR"
+  },
+  {
+    "id":2128,
+    "label":"Airbus A321neo (A21N)",
+    "value":"Airbus A321neo (A21N)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Airbus_A321neo",
+    "icao":"A21N",
+    "name":"Airbus A321neo"
+  },
+  {
+    "id":29,
+    "label":"Airbus A330 (A330)",
+    "value":"Airbus A330 (A330)",
+    "url":"airbus-a330-a330",
+    "icao":"A330",
+    "name":"Airbus A330"
+  },
+  {
+    "id":30,
+    "label":"Airbus A330-200 (A332)",
+    "value":"Airbus A330-200 (A332)",
+    "url":"airbus-a330-200-a332",
+    "icao":"A332",
+    "name":"Airbus A330-200"
+  },
+  {
+    "id":31,
+    "label":"Airbus A330-300 (A333)",
+    "value":"Airbus A330-300 (A333)",
+    "url":"airbus-a330-300-a333",
+    "icao":"A333",
+    "name":"Airbus A330-300"
+  },
+  {
+    "id":2129,
+    "label":"Airbus A330-800neo (A338)",
+    "value":"Airbus A330-800neo (A338)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Airbus_A330",
+    "icao":"A338",
+    "name":"Airbus A330-800neo"
+  },
+  {
+    "id":2130,
+    "label":"Airbus A330-900neo (A339)",
+    "value":"Airbus A330-900neo (A339)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/List_of_ICAO_aircraft_type_designators",
+    "icao":"A339",
+    "name":"Airbus A330-900neo"
+  },
+  {
+    "id":38,
+    "label":"Airbus A380 (A380)",
+    "value":"Airbus A380 (A380)",
+    "url":"airbus-a380-a380",
+    "icao":"A380",
+    "name":"Airbus A380"
+  },
+  {
+    "id":39,
+    "label":"Airbus A380-800 (A388)",
+    "value":"Airbus A380-800 (A388)",
+    "url":"airbus-a380-800-a388",
+    "icao":"A388",
+    "name":"Airbus A380-800"
+  },
+  {
+    "id":2188,
+    "label":"Airbus Beluga XL (A337)",
+    "value":"Airbus Beluga XL (A337)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Airbus_BelugaXL",
+    "icao":"A337",
+    "name":"Airbus Beluga XL"
+  },
+  {
+    "id":2061,
+    "label":"BAE Systems Avro RJ (RJX)",
+    "value":"BAE Systems Avro RJ (RJX)",
+    "url":"bae-systems-avro-rj",
+    "icao":"RJX",
+    "name":"BAE Systems Avro RJ"
+  },
+  {
+    "id":2006,
+    "label":"BAE Systems Avro RJ100 (RJ1H)",
+    "value":"BAE Systems Avro RJ100 (RJ1H)",
+    "url":"bae-systems-avro-rj100-rj1h",
+    "icao":"RJ1H",
+    "name":"BAE Systems Avro RJ100"
+  },
+  {
+    "id":2007,
+    "label":"BAE Systems Avro RJ70 (RJ70)",
+    "value":"BAE Systems Avro RJ70 (RJ70)",
+    "url":"bae-systems-avro-rj70-rj70",
+    "icao":"RJ70",
+    "name":"BAE Systems Avro RJ70"
+  },
+  {
+    "id":2008,
+    "label":"BAE Systems Avro RJ85 (RJ85)",
+    "value":"BAE Systems Avro RJ85 (RJ85)",
+    "url":"bae-systems-avro-rj85-rj85",
+    "icao":"RJ85",
+    "name":"BAE Systems Avro RJ85"
+  },
+  {
+    "id":2081,
+    "label":"Boeing 377 Stratocruiser (B377)",
+    "value":"Boeing 377 Stratocruiser (B377)",
+    "url":"boeing-377-stratocruiser-b377",
+    "icao":"B377",
+    "name":"Boeing 377 Stratocruiser"
+  },
+  {
+    "id":2035,
+    "label":"Boeing 707 (B707)",
+    "value":"Boeing 707 (B707)",
+    "url":"boeing-707-b707",
+    "icao":"B707",
+    "name":"Boeing 707"
+  },
+  {
+    "id":218,
+    "label":"Boeing 707-100 (B701)",
+    "value":"Boeing 707-100 (B701)",
+    "url":"boeing-707-100-b701",
+    "icao":"B701",
+    "name":"Boeing 707-100"
+  },
+  {
+    "id":2082,
+    "label":"Boeing 707-200 (B702)",
+    "value":"Boeing 707-200 (B702)",
+    "url":"boeing-707-200-b702",
+    "icao":"B702",
+    "name":"Boeing 707-200"
+  },
+  {
+    "id":219,
+    "label":"Boeing 707-300 (B703)",
+    "value":"Boeing 707-300 (B703)",
+    "url":"boeing-707-300-b703",
+    "icao":"B703",
+    "name":"Boeing 707-300"
+  },
+  {
+    "id":2083,
+    "label":"Boeing 707-400 (B704)",
+    "value":"Boeing 707-400 (B704)",
+    "url":"boeing-707-400-b704",
+    "icao":"B704",
+    "name":"Boeing 707-400"
+  },
+  {
+    "id":2036,
+    "label":"Boeing 717 (B717)",
+    "value":"Boeing 717 (B717)",
+    "url":"boeing-717-b717",
+    "icao":"B717",
+    "name":"Boeing 717"
+  },
+  {
+    "id":220,
+    "label":"Boeing 717-200 (B712)",
+    "value":"Boeing 717-200 (B712)",
+    "url":"boeing-717-200-b712",
+    "icao":"B712",
+    "name":"Boeing 717-200"
+  },
+  {
+    "id":221,
+    "label":"Boeing 720 (B720)",
+    "value":"Boeing 720 (B720)",
+    "url":"boeing-720-b720",
+    "icao":"B720",
+    "name":"Boeing 720"
+  },
+  {
+    "id":2013,
+    "label":"Boeing 727 (B727)",
+    "value":"Boeing 727 (B727)",
+    "url":"boeing-727-b727",
+    "icao":"B727",
+    "name":"Boeing 727"
+  },
+  {
+    "id":2009,
+    "label":"Boeing 737 (B73X)",
+    "value":"Boeing 737 (B73X)",
+    "url":"boeing-737-b73x",
+    "icao":"B73X",
+    "name":"Boeing 737"
+  },
+  {
+    "id":2125,
+    "label":"Boeing 737 MAX 10 (B3JM)",
+    "value":"Boeing 737 MAX 10 (B3JM)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/List_of_ICAO_aircraft_type_designators",
+    "icao":"B3JM",
+    "name":"Boeing 737 MAX 10"
+  },
+  {
+    "id":2186,
+    "label":"Boeing 737 MAX 200 (B38M)",
+    "value":"Boeing 737 MAX 200 (B38M)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Boeing_737_MAX",
+    "icao":"B38M",
+    "name":"Boeing 737 MAX 200"
+  },
+  {
+    "id":2122,
+    "label":"Boeing 737 MAX 7 (B37M)",
+    "value":"Boeing 737 MAX 7 (B37M)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/List_of_ICAO_aircraft_type_designators",
+    "icao":"B37M",
+    "name":"Boeing 737 MAX 7"
+  },
+  {
+    "id":2123,
+    "label":"Boeing 737 MAX 8 (B38M)",
+    "value":"Boeing 737 MAX 8 (B38M)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/List_of_ICAO_aircraft_type_designators",
+    "icao":"B38M",
+    "name":"Boeing 737 MAX 8"
+  },
+  {
+    "id":2124,
+    "label":"Boeing 737 MAX 9 (B39M)",
+    "value":"Boeing 737 MAX 9 (B39M)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/List_of_ICAO_aircraft_type_designators",
+    "icao":"B39M",
+    "name":"Boeing 737 MAX 9"
+  },
+  {
+    "id":224,
+    "label":"Boeing 737-100 (B731)",
+    "value":"Boeing 737-100 (B731)",
+    "url":"boeing-737-100-b731",
+    "icao":"B731",
+    "name":"Boeing 737-100"
+  },
+  {
+    "id":225,
+    "label":"Boeing 737-200 (B732)",
+    "value":"Boeing 737-200 (B732)",
+    "url":"boeing-737-200-b732",
+    "icao":"B732",
+    "name":"Boeing 737-200"
+  },
+  {
+    "id":226,
+    "label":"Boeing 737-300 (B733)",
+    "value":"Boeing 737-300 (B733)",
+    "url":"boeing-737-300-b733",
+    "icao":"B733",
+    "name":"Boeing 737-300"
+  },
+  {
+    "id":227,
+    "label":"Boeing 737-400 (B734)",
+    "value":"Boeing 737-400 (B734)",
+    "url":"boeing-737-400-b734",
+    "icao":"B734",
+    "name":"Boeing 737-400"
+  },
+  {
+    "id":228,
+    "label":"Boeing 737-500 (B735)",
+    "value":"Boeing 737-500 (B735)",
+    "url":"boeing-737-500-b735",
+    "icao":"B735",
+    "name":"Boeing 737-500"
+  },
+  {
+    "id":229,
+    "label":"Boeing 737-600 (B736)",
+    "value":"Boeing 737-600 (B736)",
+    "url":"boeing-737-600-b736",
+    "icao":"B736",
+    "name":"Boeing 737-600"
+  },
+  {
+    "id":230,
+    "label":"Boeing 737-700 (B737)",
+    "value":"Boeing 737-700 (B737)",
+    "url":"boeing-737-700-b737",
+    "icao":"B737",
+    "name":"Boeing 737-700"
+  },
+  {
+    "id":231,
+    "label":"Boeing 737-800 (B738)",
+    "value":"Boeing 737-800 (B738)",
+    "url":"boeing-737-800-b738",
+    "icao":"B738",
+    "name":"Boeing 737-800"
+  },
+  {
+    "id":232,
+    "label":"Boeing 737-900 (B739)",
+    "value":"Boeing 737-900 (B739)",
+    "url":"boeing-737-900-b739",
+    "icao":"B739",
+    "name":"Boeing 737-900"
+  },
+  {
+    "id":2069,
+    "label":"Boeing 737-900ER (B739)",
+    "value":"Boeing 737-900ER (B739)",
+    "url":"boeing-737-900er-b739",
+    "icao":"B739",
+    "name":"Boeing 737-900ER"
+  },
+  {
+    "id":2010,
+    "label":"Boeing 757 (B757)",
+    "value":"Boeing 757 (B757)",
+    "url":"boeing-757-b757",
+    "icao":"B757",
+    "name":"Boeing 757"
+  },
+  {
+    "id":241,
+    "label":"Boeing 757-200 (B752)",
+    "value":"Boeing 757-200 (B752)",
+    "url":"boeing-757-200-b752",
+    "icao":"B752",
+    "name":"Boeing 757-200"
+  },
+  {
+    "id":2098,
+    "label":"Boeing 757-200PF (B752)",
+    "value":"Boeing 757-200PF (B752)",
+    "url":"boeing-757-200pf-b752",
+    "icao":"B752",
+    "name":"Boeing 757-200PF"
+  },
+  {
+    "id":2099,
+    "label":"Boeing 757-200SF (B752)",
+    "value":"Boeing 757-200SF (B752)",
+    "url":"boeing-757-200sf-b752",
+    "icao":"B752",
+    "name":"Boeing 757-200SF"
+  },
+  {
+    "id":242,
+    "label":"Boeing 757-300 (B753)",
+    "value":"Boeing 757-300 (B753)",
+    "url":"boeing-757-300-b753",
+    "icao":"B753",
+    "name":"Boeing 757-300"
+  },
+  {
+    "id":2012,
+    "label":"Boeing 777 (B777)",
+    "value":"Boeing 777 (B777)",
+    "url":"boeing-777-b777",
+    "icao":"B777",
+    "name":"Boeing 777"
+  },
+  {
+    "id":2021,
+    "label":"Boeing 777 Freighter (B77F)",
+    "value":"Boeing 777 Freighter (B77F)",
+    "url":"boeing-777-freighter-b77f",
+    "icao":"B77F",
+    "name":"Boeing 777 Freighter"
+  },
+  {
+    "id":246,
+    "label":"Boeing 777-200 (B772)",
+    "value":"Boeing 777-200 (B772)",
+    "url":"boeing-777-200-b772",
+    "icao":"B772",
+    "name":"Boeing 777-200"
+  },
+  {
+    "id":2024,
+    "label":"Boeing 777-200ER (B77E)",
+    "value":"Boeing 777-200ER (B77E)",
+    "url":"boeing-777-200er-b77e",
+    "icao":"B77E",
+    "name":"Boeing 777-200ER"
+  },
+  {
+    "id":2022,
+    "label":"Boeing 777-200LR (B77L)",
+    "value":"Boeing 777-200LR (B77L)",
+    "url":"boeing-777-200lr-b77l",
+    "icao":"B77L",
+    "name":"Boeing 777-200LR"
+  },
+  {
+    "id":247,
+    "label":"Boeing 777-300 (B773)",
+    "value":"Boeing 777-300 (B773)",
+    "url":"boeing-777-300-b773",
+    "icao":"B773",
+    "name":"Boeing 777-300"
+  },
+  {
+    "id":2023,
+    "label":"Boeing 777-300ER (B77W)",
+    "value":"Boeing 777-300ER (B77W)",
+    "url":"boeing-777-300er-b77w",
+    "icao":"B77W",
+    "name":"Boeing 777-300ER"
+  },
+  {
+    "id":2086,
+    "label":"Boeing 787 Dreamliner (B787)",
+    "value":"Boeing 787 Dreamliner (B787)",
+    "url":"boeing-787-dreamliner-b787",
+    "icao":"B787",
+    "name":"Boeing 787 Dreamliner"
+  },
+  {
+    "id":2138,
+    "label":"Boeing 787-10 (B78X)",
+    "value":"Boeing 787-10 (B78X)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/List_of_ICAO_aircraft_type_designators",
+    "icao":"B78X",
+    "name":"Boeing 787-10"
+  },
+  {
+    "id":2087,
+    "label":"Boeing 787-8 (B788)",
+    "value":"Boeing 787-8 (B788)",
+    "url":"boeing-787-8-b788",
+    "icao":"B788",
+    "name":"Boeing 787-8"
+  },
+  {
+    "id":2088,
+    "label":"Boeing 787-9 (B789)",
+    "value":"Boeing 787-9 (B789)",
+    "url":"boeing-787-9-b789",
+    "icao":"B789",
+    "name":"Boeing 787-9"
+  },
+  {
+    "id":866,
+    "label":"British Aerospace BAe-125-1000 (H25C)",
+    "value":"British Aerospace BAe-125-1000 (H25C)",
+    "url":"british-aerospace-bae-125-1000-h25c",
+    "icao":"H25C",
+    "name":"British Aerospace BAe-125-1000"
+  },
+  {
+    "id":1518,
+    "label":"British Aerospace BAe-146 (BA46)",
+    "value":"British Aerospace BAe-146 (BA46)",
+    "url":"british-aerospace-bae-146-ba46",
+    "icao":"BA46",
+    "name":"British Aerospace BAe-146"
+  },
+  {
+    "id":209,
+    "label":"British Aerospace BAe-146-100 (B461)",
+    "value":"British Aerospace BAe-146-100 (B461)",
+    "url":"british-aerospace-bae-146-100-b461",
+    "icao":"B461",
+    "name":"British Aerospace BAe-146-100"
+  },
+  {
+    "id":210,
+    "label":"British Aerospace BAe-146-200 (B462)",
+    "value":"British Aerospace BAe-146-200 (B462)",
+    "url":"british-aerospace-bae-146-200-b462",
+    "icao":"B462",
+    "name":"British Aerospace BAe-146-200"
+  },
+  {
+    "id":211,
+    "label":"British Aerospace BAe-146-300 (B463)",
+    "value":"British Aerospace BAe-146-300 (B463)",
+    "url":"british-aerospace-bae-146-300-b463",
+    "icao":"B463",
+    "name":"British Aerospace BAe-146-300"
+  },
+  {
+    "id":2136,
+    "label":"COMAC ARJ21-700 (AJ27)",
+    "value":"COMAC ARJ21-700 (AJ27)",
+    "url":"https:\/\/www.caa.co.uk\/uploadedFiles\/CAA\/Content\/Standard_Content\/Data_and_analysis\/AvStats_project\/Files\/AircraftTypesByIcaoCode",
+    "icao":"AJ27",
+    "name":"COMAC ARJ21-700"
+  },
+  {
+    "id":384,
+    "label":"Cessna 320 Skyknight (C320)",
+    "value":"Cessna 320 Skyknight (C320)",
+    "url":"cessna-320-skyknight-c320",
+    "icao":"C320",
+    "name":"Cessna 320 Skyknight"
+  },
+  {
+    "id":2200,
+    "label":"Comac C919 (C919)",
+    "value":"Comac C919 (C919)",
+    "url":"http:\/\/english.comac.cc\/products\/ca\/",
+    "icao":"C919",
+    "name":"Comac C919"
+  },
+  {
+    "id":2146,
+    "label":"Embraer 175 (E75L)",
+    "value":"Embraer 175 (E75L)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Embraer_175",
+    "icao":"E75L",
+    "name":"Embraer 175"
+  },
+  {
+    "id":2145,
+    "label":"Embraer 175 (E75S)",
+    "value":"Embraer 175 (E75S)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Embraer_175",
+    "icao":"E75S",
+    "name":"Embraer 175"
+  },
+  {
+    "id":1895,
+    "label":"Embraer CBA-123 Vector (VECT)",
+    "value":"Embraer CBA-123 Vector (VECT)",
+    "url":"embraer-cba-123-vector-vect",
+    "icao":"VECT",
+    "name":"Embraer CBA-123 Vector"
+  },
+  {
+    "id":2139,
+    "label":"Embraer E190-E2 (E290)",
+    "value":"Embraer E190-E2 (E290)",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Embraer_E-Jet_E2_family",
+    "icao":"E290",
+    "name":"Embraer E190-E2"
+  },
+  {
+    "id":649,
+    "label":"Embraer EMB-110 Bandeirante (E110)",
+    "value":"Embraer EMB-110 Bandeirante (E110)",
+    "url":"embraer-emb-110-bandeirante-e110",
+    "icao":"E110",
+    "name":"Embraer EMB-110 Bandeirante"
+  },
+  {
+    "id":650,
+    "label":"Embraer EMB-120 Brasilia (E120)",
+    "value":"Embraer EMB-120 Brasilia (E120)",
+    "url":"embraer-emb-120-brasilia-e120",
+    "icao":"E120",
+    "name":"Embraer EMB-120 Brasilia"
+  },
+  {
+    "id":651,
+    "label":"Embraer EMB-121 Xingu (E121)",
+    "value":"Embraer EMB-121 Xingu (E121)",
+    "url":"embraer-emb-121-xingu-e121",
+    "icao":"E121",
+    "name":"Embraer EMB-121 Xingu"
+  },
+  {
+    "id":947,
+    "label":"Embraer EMB-200 Ipanema (IPAN)",
+    "value":"Embraer EMB-200 Ipanema (IPAN)",
+    "url":"embraer-emb-200-ipanema-ipan",
+    "icao":"IPAN",
+    "name":"Embraer EMB-200 Ipanema"
+  },
+  {
+    "id":661,
+    "label":"Embraer EMB-314 Super Tucano (E314)",
+    "value":"Embraer EMB-314 Super Tucano (E314)",
+    "url":"embraer-emb-314-super-tucano-e314",
+    "icao":"E314",
+    "name":"Embraer EMB-314 Super Tucano"
+  },
+  {
+    "id":1150,
+    "label":"Embraer EMB-326 Xavante (M326)",
+    "value":"Embraer EMB-326 Xavante (M326)",
+    "url":"embraer-emb-326-xavante-m326",
+    "icao":"M326",
+    "name":"Embraer EMB-326 Xavante"
+  },
+  {
+    "id":652,
+    "label":"Embraer ERJ-135 (E135)",
+    "value":"Embraer ERJ-135 (E135)",
+    "url":"embraer-erj-135-e135",
+    "icao":"E135",
+    "name":"Embraer ERJ-135"
+  },
+  {
+    "id":2030,
+    "label":"Embraer ERJ-140 (E140)",
+    "value":"Embraer ERJ-140 (E140)",
+    "url":"embraer-erj-140-e140",
+    "icao":"E140",
+    "name":"Embraer ERJ-140"
+  },
+  {
+    "id":653,
+    "label":"Embraer ERJ-145 (E145)",
+    "value":"Embraer ERJ-145 (E145)",
+    "url":"embraer-erj-145-e145",
+    "icao":"E145",
+    "name":"Embraer ERJ-145"
+  },
+  {
+    "id":665,
+    "label":"Embraer ERJ-145XR (E45X)",
+    "value":"Embraer ERJ-145XR (E45X)",
+    "url":"embraer-erj-145xr-e45x",
+    "icao":"E45X",
+    "name":"Embraer ERJ-145XR"
+  },
+  {
+    "id":654,
+    "label":"Embraer ERJ-170 (E170)",
+    "value":"Embraer ERJ-170 (E170)",
+    "url":"embraer-erj-170-e170",
+    "icao":"E170",
+    "name":"Embraer ERJ-170"
+  },
+  {
+    "id":2015,
+    "label":"Embraer ERJ-175 (E175)",
+    "value":"Embraer ERJ-175 (E175)",
+    "url":"embraer-erj-175-e175",
+    "icao":"E175",
+    "name":"Embraer ERJ-175"
+  },
+  {
+    "id":655,
+    "label":"Embraer ERJ-190 (E190)",
+    "value":"Embraer ERJ-190 (E190)",
+    "url":"embraer-erj-190-e190",
+    "icao":"E190",
+    "name":"Embraer ERJ-190"
+  },
+  {
+    "id":2016,
+    "label":"Embraer ERJ-195 (E195)",
+    "value":"Embraer ERJ-195 (E195)",
+    "url":"embraer-erj-195-e195",
+    "icao":"E195",
+    "name":"Embraer ERJ-195"
+  },
+  {
+    "id":894,
+    "label":"Falconar HM-380 Ladybug (HM38)",
+    "value":"Falconar HM-380 Ladybug (HM38)",
+    "url":"falconar-hm-380-ladybug-hm38",
+    "icao":"HM38",
+    "name":"Falconar HM-380 Ladybug"
+  },
+  {
+    "id":890,
+    "label":"HFB HFB-320 Hansa (HF20)",
+    "value":"HFB HFB-320 Hansa (HF20)",
+    "url":"hfb-hfb-320-hansa-hf20",
+    "icao":"HF20",
+    "name":"HFB HFB-320 Hansa"
+  },
+  {
+    "id":1071,
+    "label":"Lederlin 380 Ladybug (L380)",
+    "value":"Lederlin 380 Ladybug (L380)",
+    "url":"lederlin-380-ladybug-l380",
+    "icao":"L380",
+    "name":"Lederlin 380 Ladybug"
+  },
+  {
+    "id":1289,
+    "label":"Nord 3202 (N320)",
+    "value":"Nord 3202 (N320)",
+    "url":"nord-3202-n320",
+    "icao":"N320",
+    "name":"Nord 3202"
+  },
+  {
+    "id":1605,
+    "label":"Piel CP-1320 Saphir (SAPH)",
+    "value":"Piel CP-1320 Saphir (SAPH)",
+    "url":"piel-cp-1320-saphir-saph",
+    "icao":"SAPH",
+    "name":"Piel CP-1320 Saphir"
+  },
+  {
+    "id":2067,
+    "label":"Sukhoi Superjet 100 (SU95)",
+    "value":"Sukhoi Superjet 100 (SU95)",
+    "url":"sukhoi-superjet-100-su95",
+    "icao":"SU95",
+    "name":"Sukhoi Superjet 100"
+  },
+  {
+    "id":1903,
+    "label":"Viper ViperJet (VIPJ)",
+    "value":"Viper ViperJet (VIPJ)",
+    "url":"viper-viperjet-vipj",
+    "icao":"VIPJ",
+    "name":"Viper ViperJet"
+  }
+]
